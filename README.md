@@ -27,7 +27,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/VSeceKOgYBc?si=5LtqXXM_PMoU0Cq4)  
 
 ### 5. Vendor OTIF Analysis App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App)
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.vendor-otif-analysis?tab=Overview)  
 - [Watch Demo](https://youtu.be/rHN9mGxKg-Y?si=GK7_dhnbPsfGFLrn)  
 
