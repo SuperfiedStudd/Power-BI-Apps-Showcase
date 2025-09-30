@@ -42,7 +42,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/8jh7EHEbN8c?si=wWjvYzVcZ-JYsTOL)  
 
 ### 8. Quality Check Analysis App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.quality-check-analysis?tab=Overview)  
 - [Watch Demo](https://youtu.be/Wq9HwiC4jJw?si=YdmAGLduvWE062Gy)  
 
