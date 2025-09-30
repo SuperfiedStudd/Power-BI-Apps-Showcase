@@ -22,7 +22,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/Z78a3rHhR68?si=lgYww_tGPlYOOyaK)  
 
 ### 4. Production Planning App  
-- GitHub Repo: [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Production-Planning-App)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Production-Planning-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.production-planning?tab=Overview)  
 - [Watch Demo](https://youtu.be/VSeceKOgYBc?si=5LtqXXM_PMoU0Cq4)  
 
