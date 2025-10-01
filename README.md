@@ -67,7 +67,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/Q9W3qjUr7uw?si=k9quv1HnynG-M2Ax)  
 
 ### 13. Project Fulfillment Planner App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Project-Fulfillment-Planner-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.project-fulfillment-planner?tab=Overview)  
 - [Watch Demo](https://youtu.be/DI4Zz4ET3DQ?si=KWN3puKmIOy_S7Rm)  
 
