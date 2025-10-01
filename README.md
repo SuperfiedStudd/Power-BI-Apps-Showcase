@@ -77,7 +77,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/E0mLzKIZkV4?si=ulB8DoJvPLXl6pOX)  
 
 ### 15. Shipment Schedule Tracker App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Shipment-Schedule-Tracking-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.shipment-schedule-tracker?tab=Overview)  
 - [Watch Demo](https://youtu.be/itrfGUTlcwY?si=JBsuCZwoxWIjaRpr)  
 
