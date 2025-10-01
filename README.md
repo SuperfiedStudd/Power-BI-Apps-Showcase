@@ -32,7 +32,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/rHN9mGxKg-Y?si=GK7_dhnbPsfGFLrn)  
 
 ### 6. Churn Rate & Customer Classification App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Customer-Churn-Classification-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.churn-rate-customer-classification?tab=Overview)  
 - [Watch Demo](https://youtu.be/sbiGt5fZSfU?si=OcjmC0Qw6PXLl9lQ)  
 
