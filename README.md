@@ -37,7 +37,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/sbiGt5fZSfU?si=OcjmC0Qw6PXLl9lQ)  
 
 ### 7. Credit & Vendor Invoice Management App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Credit-and-Vendor-Invoice-Management-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.credit-and-vendor-invoice-management?tab=Overview)  
 - [Watch Demo](https://youtu.be/8jh7EHEbN8c?si=wWjvYzVcZ-JYsTOL)  
 
