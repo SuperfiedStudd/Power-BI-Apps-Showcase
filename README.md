@@ -72,7 +72,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/DI4Zz4ET3DQ?si=KWN3puKmIOy_S7Rm)  
 
 ### 14. Region Wise Sales and Profit App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Region-Wise-Sales-and-Profit-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.regionwise-sales-and-profit?tab=Overview)  
 - [Watch Demo](https://youtu.be/E0mLzKIZkV4?si=ulB8DoJvPLXl6pOX)  
 
