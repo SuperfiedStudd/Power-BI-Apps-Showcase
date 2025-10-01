@@ -12,7 +12,7 @@ This repository is a central hub for 15 Power BI apps developed by **Jasjyot Sin
 - [Watch Demo](https://youtu.be/jhX8hAw_viw?si=H63JmrtcZMrN1f22)  
 
 ### 2. Material Cost Prediction App  
-- GitHub Repo: (coming soon)  
+- [GitHub Repo](https://github.com/SuperfiedStudd/Power-BI-Material-Cost-Prediction-App)  
 - [View on AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.material-cost-fluctuation?tab=Overview)  
 - [Watch Demo](https://youtu.be/_KI_bR1HyMA?si=-wDEIki59gV0mGSU)  
 
